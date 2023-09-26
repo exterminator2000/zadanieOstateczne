@@ -1,3 +1,4 @@
+// jest tu sam login bez hasla
 
 const login = prompt('Wprowadz login: ');
 
